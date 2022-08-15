@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Ekla Chalo Re"
 Use the left arrow to go back!
